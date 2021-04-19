@@ -1,2 +1,4 @@
-# portfolio
-portfolio
+# README
+## self‐introduction
+- name
+  - yuki y
